@@ -108,7 +108,7 @@ Sensors "poke" the condition at intervals (you can configure how often), and onc
         task_id="run_spark_job_on_dataproc_serverless",
         batch=batch_details,
         batch_id=batch_id,
-        project_id="psyched-service-442305-q1",
+        project_id="atomic-voice-454513-h1",
         region="us-central1",
         gcp_conn_id="google_cloud_default",
     )
